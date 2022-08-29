@@ -196,13 +196,13 @@ Bolivarcoin cuenta con una creciente comunidad en las redes sociales en la que l
 
 #### Comunidades:
 
-* [Telegram](https://t.me/bolivarcoinoficial)
+* [Telegram](https://t.me/bolicoin_official)
 * [Discord](https://discordapp.com/invite/Ea8Xprg)
 * [Whastapp](https://chat.whatsapp.com/invite/9Ak1EBkMsVlENzbAqpj5sg)
 * [Facebook](https://www.facebook.com/BolivarcoinAPP/)
 * [Twitter](https://twitter.com/BolivarCoin_XT)
 * [Instagram](https://www.instagram.com/bolicoin/?hl=es-la)
 * [Linkedin](https://www.linkedin.com/company/29038826/admin/)
-* [Github](https://github.com/BOLI-Project/BolivarCoin)
+* [Github](https://github.com/BOLI-Project/)
 
 Directorio: www.bolis.info
